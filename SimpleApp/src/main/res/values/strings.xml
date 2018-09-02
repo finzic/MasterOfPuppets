@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">SimpleApplication</string>
+    <string name="node_a_name">Node A</string>
+    <string name="node_b_name">Node B</string>
+    <string name="node_c_name">Node C</string>
+    <string name="node_d_name">Node D</string>
+    <string name="node_e_name">Node E</string>
+    <string name="node_f_name">Node F</string>
+    <string name="node_g_name">Node G</string>
+    <string name="node_h_name">Node H</string>
+    <string name="node_i_name">Node I</string>
+    <string name="button_to_a">Go To A</string>
+    <string name="button_to_b">Go To B</string>
+    <string name="button_to_c">Go To C</string>
+    <string name="button_to_d">Go To D</string>
+    <string name="button_to_e">Go To E</string>
+    <string name="button_to_f">Go To F</string>
+    <string name="button_to_g">Go To G</string>
+    <string name="button_to_h">Go To H</string>
+    <string name="button_to_i">Go To I</string>
+</resources>
+
