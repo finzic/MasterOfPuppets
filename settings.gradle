@@ -1,2 +1,2 @@
-include ':app'
+include ':app', ':pm-annotations', ':pm-compiler'
 rootProject.name='SimpleApp'
