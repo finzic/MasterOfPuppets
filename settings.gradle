@@ -1,1 +1,2 @@
-include ':SimpleApp'
+include ':app'
+rootProject.name='SimpleApp'
