@@ -1,7 +1,7 @@
-# MasterOfPuppets
-Sample app and proof of concept for the PuppetMaster idea
+
 MasterOfPuppets
 ===============
+Sample app and proof of concept for the _PuppetMaster_ idea 
 
 This repo contains a sample app, some automated tests, and code to process annotations that will be used as a playground for the *PuppetMaster* idea. 
 
