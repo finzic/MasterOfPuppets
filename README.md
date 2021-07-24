@@ -1,4 +1,4 @@
-
+8)8)8)
 MasterOfPuppets
 ===============
 Sample app and proof of concept for the _PuppetMaster_ idea 
